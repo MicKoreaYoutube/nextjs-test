@@ -55,6 +55,7 @@ export default function Index({ posts, globalData }) {
         variant="small"
         className="absolute bottom-0 opacity-20 dark:opacity-10"
       />
+      <footer>made by MicKoreaYoutube</footer>
     </Layout>
   );
 }
